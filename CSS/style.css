@@ -83,3 +83,11 @@ footer {
 	color: #F15B31;
 	font-weight: 700;
 }
+.button {
+	color: white;
+	letter-spacing: .08em;
+	margin: 15px;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #F15B31;
+}
